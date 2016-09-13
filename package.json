@@ -1,7 +1,7 @@
 {
-  "name": "fleetng",
+  "name": "sentimento",
   "version": "0.0.1",
-  "description": "Angular Seed with ES6 | webpack | less | angular-material",
+  "description": "Web-based dashboard application for sentiment analysis",
   "main": "index.js",
   "dependencies": {
     "angular": "^1.5.0",
